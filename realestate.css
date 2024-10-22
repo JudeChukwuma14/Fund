@@ -1,0 +1,145 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.inner h4{
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+.inner h1{
+    padding-bottom: 15px;
+}
+.inner p{
+    padding-bottom: 10px;
+}
+.email-input{
+    padding-right: 203px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+.btn2{
+    padding-left: 13px;
+    padding-right: 13px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    background-color: #AA4528;
+    color: white;
+    border-radius: 4px;
+    border-color: #AA4528;
+}
+.firstimage img{
+    height: auto;
+    width: 300px;
+    object-fit: cover;
+}
+.stage1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+.stage2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #E0DFDC;
+}
+.why h1{
+    font-size: 60px;
+}
+.why p{
+    font-size: 20px;
+}
+.wealth{
+    background-color: rgb(255, 255, 255);
+    width: 500px;
+    display: flex;
+    border-radius: 15px;
+    justify-content: center;
+    align-items: baseline;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    padding-bottom: 30px;
+}
+.wealth h1{
+    padding-bottom: 10px;
+}
+.wealthimage{
+    height: 50px;
+    width: 50px;
+    overflow: hidden;
+}
+.wealthimage img{
+    height: 100%;
+    width: 100%;
+    object-fit:cover ;
+}
+.income{
+    background-color: rgb(255, 255, 255);
+    width: 500px;
+    display: flex;
+    border-radius: 15px;
+    justify-content: center;
+    align-items: baseline;
+    margin-bottom: 20px;
+    padding-bottom: 30px;
+}
+.income h1{
+    padding-bottom: 10px;
+}
+.incomeimage{
+    height: 50px;
+    width: 50px;
+    overflow: hidden;
+}
+.incomeimage img{
+    height: 100%;
+    width: 100%;
+    object-fit:cover ;
+}
+.superior{
+    background-color: rgb(255, 255, 255);
+    width: 500px;
+    display: flex;
+    border-radius: 15px;
+    justify-content: center;
+    align-items: baseline;
+    margin-bottom: 20px;
+    padding-bottom: 30px;
+}
+.superior h1{
+    padding-bottom: 10px;
+}
+.superiorimage{
+    height: 50px;
+    width: 50px;
+    overflow: hidden;
+}
+.superiorimage img{
+    height: 100%;
+    width: 100%;
+    object-fit:cover ;
+}
+.built{
+    background-color: rgb(255, 255, 255);
+    width: 500px;
+    display: flex;
+    border-radius: 15px;
+    justify-content: center;
+    align-items: baseline;
+    margin-bottom: 20px;
+    padding-bottom: 30px;
+}
+.built h1{
+    padding-bottom: 10px;
+}
+.builtimage{
+    height: 50px;
+    width: 50px;
+    overflow: hidden;
+}
+.builtimage img{
+    height: 100%;
+    width: 100%;
+    object-fit:cover ;
+}
