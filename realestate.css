@@ -150,6 +150,9 @@
     display: flex;
     background-color: #22262A;
     color: white;
+    padding-bottom: 50px;
+    justify-content: center;
+    align-items: center;
 }
 
 .style{
@@ -234,4 +237,74 @@
     gap: 5px;
    align-items: center;
    margin-top: 15px;
+}
+
+
+
+
+.stage4{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: #383B40;
+    color: white;
+    padding-top: 100px;
+}
+.boxlike{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+}
+.inner4 h5{
+    margin-bottom: 15px;
+}
+.inner4 h1{
+    margin-bottom: 15px;
+}
+.inner4 p{
+    margin-bottom: 10px;
+}
+.boxlike1{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.boxlike2{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.boxlike3{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.linklike a{
+    color: white;
+}
+.linklike  a:hover{
+    color: white;
+}
+.inner5{
+    display: flex;
+    flex-direction: column;
+    justify-content: first baseline;
+}
+.goldmanlink a{
+    color: red;
+}
+.familyhomes h4{
+    font-size: xx-large;
+}
+.usmarket h4{
+    font-size: xx-large;
 }
